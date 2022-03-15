@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, Wordpress**
 
-- 📝 I regularly write articles on [Website](https://fourseasonblog.com/)
+- 📝 I regularly write articles on [fourseasonblog](https://fourseasonblog.com/)
 
 - 📫 How to reach me **gadekarpalak29@gmail.com**
 
