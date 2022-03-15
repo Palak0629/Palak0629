@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Java, Wordpress**
 
-- 📝 I regularly write articles on [https://fourseasonblog.com/](https://fourseasonblog.com/)
+- 📝 I regularly write articles on [Website](https://fourseasonblog.com/)
 
 - 📫 How to reach me **gadekarpalak29@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1R4rVhVnhnkqgYWgBu_5GPeOtqMLlEl7LY988drTeJRo/edit?usp=sharing](https://docs.google.com/document/d/1R4rVhVnhnkqgYWgBu_5GPeOtqMLlEl7LY988drTeJRo/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1R4rVhVnhnkqgYWgBu_5GPeOtqMLlEl7LY988drTeJRo/edit?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
